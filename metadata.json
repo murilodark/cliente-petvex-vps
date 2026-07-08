@@ -1,0 +1,8 @@
+{
+  "name": "Cliente PetVex",
+  "description": "Plataforma SaaS premium de gestão para pet shops, clínicas veterinárias e estética pet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
