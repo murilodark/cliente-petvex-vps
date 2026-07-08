@@ -8,7 +8,7 @@ A proposta é transformar toda a configuração operacional em uma arquitetura r
 - GitHub Environment Provisioning
 - DevOps Automation
 - CI/CD Bootstrap
-- Repositórios reutilizáveis
+- Repositórios reutilizáveis 
 
 ---
 
